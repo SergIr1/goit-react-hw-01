@@ -1,8 +1,7 @@
 import './App.css'
-import Profile from './Profile';
+import Profile from './Profile/Profile';
 import userData from "../consigs/userData.json";
 
-console.log(userData.stats.followers)
 export default function App() {
   return (
     <>
