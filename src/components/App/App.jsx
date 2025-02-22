@@ -1,6 +1,6 @@
-import './App.css'
-import Profile from './Profile/Profile';
-import userData from "../consigs/userData.json";
+import './App.module.css'
+import Profile from '../Profile/Profile';
+import userData from "../../consigs/userData.json";
 
 export default function App() {
   return (
