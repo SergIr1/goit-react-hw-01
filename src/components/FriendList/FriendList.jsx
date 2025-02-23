@@ -9,14 +9,3 @@ export default function FriendList({ friends }) {
     </ul>
         </div>
     )}
-
-// export default function FriendList({friend: {avatar, name, isOnline}}) {
-
-//     return (
-//         <div className={css.container}>
-//             <img src={avatar} alt="Avatar" width="48" />
-//             <p>{name}</p>
-//             <p>{isOnline}</p>
-//         </div>
-//     )
-// }
