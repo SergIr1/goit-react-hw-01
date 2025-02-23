@@ -61,18 +61,10 @@
     line-height: 1.54;
 }
 
-.textStatus.info {
-    color: blue;
-}
-
-.textStatus.success {
+.online {
     color: green;
 }
 
-.textStatus.error {
+.offline {
     color: red;
-}
-
-.textStatus.warning {
-    color: orange;
 }

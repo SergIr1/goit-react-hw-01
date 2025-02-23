@@ -1,6 +1,8 @@
 import './App.module.css'
+
 import Profile from '../Profile/Profile';
 import userData from "../../consigs/userData.json";
+
 import FriendList from "../FriendList/FriendList"
 import friends from "../../consigs/FriendList.json"
 
