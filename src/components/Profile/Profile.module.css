@@ -1,29 +1,22 @@
 .container {
     display: flex;
-
     justify-content: center;
     align-items: center;
-    padding: 10px 20px;
-    /* min-width: 320px; */
-    text-align: center;
+    margin-bottom: 100px;
 
-    background-color: aqua;
-    border-radius: 24px;
+    padding: 30px 0px;
+    text-align: center;
 }
 
 .generalWrap{
     background-color: rgb(244, 240, 236);
         display: flex;
         flex-direction: column;
-        -webkit-box-align: center;
         align-items: center;
-        /* border-top-left-radius: 10px;
-        border-top-right-radius: 10px; */
         border-radius: 10px;
-        /* border: 2px solid black; */
         max-width: 350px;
         width: 100%;
-        box-shadow: rgb(65, 64, 64) 1rem 6rem 3rem, rgb(82, 81, 81) -1rem -1rem 3rem;
+        box-shadow: rgb(65, 64, 64) 1rem 1rem 2rem, rgb(82, 81, 81) -1rem -1rem 2rem;
 }
 
 .wrapper{
